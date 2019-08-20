@@ -1,0 +1,48 @@
+/* *{
+margin: 0px;
+padding: 0;
+text-align: 
+}  */
+
+
+
+ h1{
+     position: fixed;
+     /* height: 20vh; 
+        width: 10vw; */
+     /* height: 50%;
+     width: 50%; */
+    color: red;
+    border: 5px solid black;
+    text-align: center;
+     /* padding-top: 40px ; */
+    /* margin: 50px 30px 20px 10px;  */
+     background-color: blue;
+     font-size: 5em;
+} 
+
+h2{
+    color: aquamarine;
+    background-color: black;
+    text-align: center;
+    font-size: 3rem; /*gives the user the ability to manipulate*/
+    /* position: absolute; */
+} 
+.whatsapp{
+text-align: center;
+color: rgb(28, 227, 241);
+font-size: 10em;
+/* position: fixed; */
+}
+div > p{
+    color: pink;
+    background-color: black;
+    font-size: 30px;
+    text-align: center;
+}
+div + p{
+    color: yellow;
+    background-color: rgb(29, 24, 24);
+    font-size: 28px;
+    text-align: center;
+}
